@@ -1,4 +1,4 @@
-var myVar = 'Thss message nedd to be alert on the screen.';
+var myVar = 'ABOBA';
 
 const firstFunc = (m) => {
     alert(m);

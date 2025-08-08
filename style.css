@@ -1,0 +1,7 @@
+.div {
+    display: flex;
+    align-items: center;
+    /* Вертикальное центрирование */
+    justify-content: center;
+    /* Горизонтальное центрирование */
+}
